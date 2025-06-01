@@ -1,0 +1,29 @@
+[
+  {
+    "company": "Blue Cross Blue Shield (HCSC)",
+    "location": "Chicago, IL (Hybrid)",
+    "active": true,
+    "title": "Software Engineer II",
+    "date": "Aug 2023 -- Present",
+    "bullets": [
+      "Delivered 40+ Spring Boot microservices powering HCSC’s enterprise claims system (50k+ daily transactions), replacing legacy mainframe workflows.",
+      "Diagnosed and resolved critical production defects post-migration, stabilizing batch operations and boosting team velocity.",
+      "Built REST/SOAP APIs (Java 17, Spring Boot, JPA, Kafka, MQ) integrated with Oracle and DB2 across complex mapping layers.",
+      "Automated dev workflows with custom CLI tools (e.g., dependency checks, PR generation), saving 1,000+ hours across 10 teams.",
+      "Supported Azure/OpenShift migration by containerizing legacy services and debugging platform issues with Podman and Rancher."
+    ]
+  },
+  {
+    "company": "Blue Cross Blue Shield (HCSC)",
+    "active": true,
+    "location": "Helena, MT (Hybrid)",
+    "title": "Associate Software Engineer",
+    "date": "Aug 2022 -- July 2023",
+    "bullets": [
+      "Gained foundational experience with Spring Framework, SOAP, and RESTful services in a regulated enterprise environment.",
+      "Partnered with business analysts to translate ambiguous requirements into actionable technical designs and service contracts.",
+      "Spearheaded three automation projects that eliminated 1,000+ hours of manual work across developer workflows and operations.",
+      "Built and deployed a centralized documentation portal using MkDocs and GitHub Pages, reducing onboarding time by 50% and improving team-wide knowledge sharing."
+    ]
+  }
+]

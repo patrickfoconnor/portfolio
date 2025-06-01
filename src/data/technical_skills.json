@@ -1,0 +1,54 @@
+{
+  "Languages": [
+    "Java 17",
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "Groovy",
+    "Bash"
+  ],
+  "Frameworks & Libraries": [
+    "Spring Boot",
+    "JPA/Hibernate",
+    "REST",
+    "SOAP",
+    "Kafka",
+    "JAX-WS",
+    "React (Redux, Context API)",
+    "Node.js"
+  ],
+  "Tools & Platforms": [
+    "GitHub Actions",
+    "IntelliJ",
+    "Postman",
+    "cURL",
+    "AWS S3",
+    "OpenAPI",
+    "Make",
+    "MkDocs",
+    "CLI development"
+  ],
+  "Databases": ["PostgreSQL", "DB2", "MySQL", "Microsoft SQL Server", "Oracle"],
+  "DevOps & Infrastructure": [
+    "Docker",
+    "Kubernetes",
+    "Podman",
+    "Rancher Desktop",
+    "Azure",
+    "OpenShift",
+    "PCF",
+    "ELK",
+    "Dynatrace",
+    "Jenkins",
+    "WSL",
+    "RHEL"
+  ],
+  "Practices": [
+    "Clean Architecture",
+    "TDD",
+    "Legacy Migration",
+    "Agile/Scrum",
+    "CI/CD",
+    "Documentation Automation"
+  ]
+}

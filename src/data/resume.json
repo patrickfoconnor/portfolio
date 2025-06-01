@@ -1,0 +1,121 @@
+{
+  "name": "Patrick O'Connor",
+  "title": "Full Stack Software Engineer",
+  "contact": {
+    "phone": "(630)-484-3033",
+    "email": "patrickoconnoricloud@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/patrick-f-oconnor",
+    "github": "https://www.github.com/patrickfoconnor"
+  },
+  "summary": "Software engineer with 3+ years’ experience developing and stabilizing high-throughput Spring Boot microservices in regulated healthcare environments. Proven track record in automating workflows that save thousands of hours and mentoring teams to improve code quality and velocity. Skilled in Java 17, cloud-native infrastructure, and cross-functional collaboration.",
+  "experience": [
+    {
+      "company": "Blue Cross Blue Shield (HCSC)",
+      "location": "Chicago, IL (Hybrid)",
+      "title": "Software Engineer II",
+      "date": "Aug 2023 -- Present",
+      "bullets": [
+        "Delivered 40+ Spring Boot microservices powering HCSC’s enterprise claims system (50k+ daily transactions), replacing legacy mainframe workflows.",
+        "Diagnosed and resolved critical production defects post-migration, stabilizing batch operations and boosting team velocity.",
+        "Built REST/SOAP APIs (Java 17, Spring Boot, JPA, Kafka, MQ) integrated with Oracle and DB2 across complex mapping layers.",
+        "Automated dev workflows with custom CLI tools (e.g., dependency checks, PR generation), saving 1,000+ hours across 10 teams.",
+        "Supported Azure/OpenShift migration by containerizing legacy services and debugging platform issues with Podman and Rancher."
+      ]
+    },
+    {
+      "company": "Blue Cross Blue Shield (HCSC)",
+      "location": "Helena, MT (Hybrid)",
+      "title": "Associate Software Engineer",
+      "date": "Aug 2022 -- July 2023",
+      "bullets": [
+        "Gained foundational experience with Spring Framework, SOAP, and RESTful services in a regulated enterprise environment.",
+        "Partnered with business analysts to translate ambiguous requirements into actionable technical designs and service contracts.",
+        "Spearheaded three automation projects that eliminated 1,000+ hours of manual work across developer workflows and operations.",
+        "Built and deployed a centralized documentation portal using MkDocs and GitHub Pages, reducing onboarding time by 50% and improving team-wide knowledge sharing."
+      ]
+    }
+  ],
+  "leadership_mentorship": [
+    "Led defect triage on a high-pressure team, resolving 40+ critical issues to stabilize production workflows.",
+    "Mentored junior developers on Spring Boot best practices and clean code, accelerating their onboarding and performance.",
+    "Facilitated knowledge sharing sessions and code reviews to elevate team quality and collaboration."
+  ],
+  "technical_skills": {
+    "Languages": [
+      "Java 17",
+      "TypeScript",
+      "JavaScript",
+      "Python",
+      "Groovy",
+      "Bash"
+    ],
+    "Frameworks & Libraries": [
+      "Spring Boot",
+      "JPA/Hibernate",
+      "REST",
+      "SOAP",
+      "Kafka",
+      "JAX-WS",
+      "React (Redux, Context API)",
+      "Node.js"
+    ],
+    "Tools & Platforms": [
+      "GitHub Actions",
+      "IntelliJ",
+      "Postman",
+      "cURL",
+      "AWS S3",
+      "OpenAPI",
+      "Make",
+      "MkDocs",
+      "CLI development"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "DB2",
+      "MySQL",
+      "Microsoft SQL Server",
+      "Oracle"
+    ],
+    "DevOps & Infrastructure": [
+      "Docker",
+      "Kubernetes",
+      "Podman",
+      "Rancher Desktop",
+      "Azure",
+      "OpenShift",
+      "PCF",
+      "ELK",
+      "Dynatrace",
+      "Jenkins",
+      "WSL",
+      "RHEL"
+    ],
+    "Practices": [
+      "Clean Architecture",
+      "TDD",
+      "Legacy Migration",
+      "Agile/Scrum",
+      "CI/CD",
+      "Documentation Automation"
+    ]
+  },
+  "education": {
+    "degree": "Bachelors in Computer Science",
+    "school": "Montana State University",
+    "date": "Sept 2019 -- May 2022",
+    "honors": "Graduated Cum Laude"
+  },
+  "academic_leadership": [
+    {
+      "title": "Undergraduate Course Assistant",
+      "location": "Montana State University, Bozeman, MT",
+      "date": "Sept 2021 -- May 2022",
+      "bullets": [
+        "Awarded Course Assistant of the Year (2022), Gianforte School of Computing",
+        "Led web development lab for 40 students; provided project feedback and grading guidance",
+        "Supported students building multi-page websites using JS/HTML/CSS"
+      ]
+    }
+  ]
+}
