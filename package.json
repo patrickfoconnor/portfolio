@@ -1,9 +1,9 @@
 {
-  "name": "patrick-f-oconnor-website",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://patrickfoconnor.github.io/patrickfoconnor-website",
+  "homepage": "https://patrickfoconnor.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

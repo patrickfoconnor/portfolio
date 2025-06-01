@@ -1,4 +1,3 @@
-// types/Experience.ts
 export interface AcademicLeadershipItem {
   title: string;
   location: string;
